@@ -9,6 +9,7 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
 - This CLI tool allows you to quickly view recent activity of any public GitHub user. It fetches events via the GitHub API and displays a summary of what the user has been up to — such as commits pushed, repositories starred, etc.
 - The aim is to provide a lightweight, easy-to-use way to inspect a user’s GitHub activity without needing to open the web interface.
 - It is the solution to [Roadmap.sh](https://roadmap.sh/projects/github-user-activity) problem
+- [Solution](https://roadmap.sh/projects/github-user-activity/solutions?u=68837a5a86548d698a003b7f)
 ## ✨ Features
 
 - Accept a GitHub username
